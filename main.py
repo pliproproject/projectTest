@@ -4,6 +4,3 @@ print(get_qa.get_q_from_opentdb())
 
 print("hi")
 print("hmmmmm")
-
-print("hi")
-print("hi")
